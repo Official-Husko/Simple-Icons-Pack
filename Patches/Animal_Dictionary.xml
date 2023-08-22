@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+
+  <Operation Class="PatchOperationFindMod">
+    <mods>
+      <li>Animal Dictionary</li>
+    </mods>
+    <match Class="PatchOperationConditional">
+      <success>Always</success>
+	  <xpath>/Defs/MainButtonDef[defName="AD_AnimalDictionary"]/iconPath</xpath>
+	  <nomatch Class="PatchOperationAdd">
+		  <xpath>/Defs/MainButtonDef[defName="AD_AnimalDictionary"]</xpath>
+		  <value>
+			  <iconPath>UI/Buttons/MainButtons/AnimalDictionary</iconPath>
+		  </value>
+	  </nomatch>
+	  <match Class="PatchOperationReplace">
+		  <xpath>/Defs/MainButtonDef[defName="AD_AnimalDictionary"]/iconPath</xpath>
+		  <value>
+			  <iconPath>UI/Buttons/MainButtons/AnimalDictionary</iconPath>
+		  </value>
+	  </match>
+    </match>
+  </Operation>
+
+</Patch>
