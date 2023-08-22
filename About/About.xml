@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-	<name>Husko's Simple Icon Pack</name>
+	<name>Husko's Simple Icons Pack</name>
 	<packageId>husko.icons.pack1</packageId>
 	<url></url>
 	<supportedVersions>
@@ -11,11 +11,14 @@
 	<modDependencies>
 	</modDependencies>
 	<loadAfter>
+		<li>n1taxe.billmanager</li>
 		<li>pb3n.SimpleWarrants</li>
 		<li>aamu.diary</li>
 		<li>udon.animaldictionary</li>
-		<li>n1taxe.billmanager</li>
 	</loadAfter>
+	<incompatibleWith>
+		<li>husko.icons.warranticon</li>
+	  </incompatibleWith>
 	<description>Adds Icons to multiple mods.
 
 		&lt;b&gt;Supported:&lt;/b&gt;
