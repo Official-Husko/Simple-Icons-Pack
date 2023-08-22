@@ -2,7 +2,7 @@
 
 Finally, you can see fitting Icons for a selection of mods instead of the text in [RimWorld][1]!
 
-![preview](https://github.com/Official-Husko/Simple-Warrants-Icon/blob/main/About/Preview.png)
+![preview](https://github.com/Official-Husko/Simple-Icons-Pack/blob/main/About/Preview.png)
 
 Compatible Versions: **1.3**, **1.4**
 
@@ -23,8 +23,8 @@ Published Officially on the following Platforms:
 
 [1]: https://store.steampowered.com/app/294100/RimWorld/
 [3]: https://github.com/Official-Husko/Simple-Icons-Pack
-[4]: https://steamcommunity.com/sharedfiles/filedetails/?id=3021797075
-[5]: https://www.nexusmods.com/rimworld/mods/450
+[4]: https://steamcommunity.com/sharedfiles/filedetails/?id=3024100852
+[5]: https://www.nexusmods.com/rimworld/mods/451
 [6]: https://steamcommunity.com/workshop/filedetails/?id=2676828755
 [7]: https://steamcommunity.com/sharedfiles/filedetails/?id=2957278626
 [8]: https://steamcommunity.com/sharedfiles/filedetails/?id=2888141826
