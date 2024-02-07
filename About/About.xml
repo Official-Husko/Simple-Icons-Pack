@@ -15,10 +15,11 @@
 		<li>pb3n.SimpleWarrants</li>
 		<li>aamu.diary</li>
 		<li>udon.animaldictionary</li>
+		<li>fluffy.colonymanager</li>
 	</loadAfter>
 	<incompatibleWith>
 		<li>husko.icons.warranticon</li>
-	  </incompatibleWith>
+	</incompatibleWith>
 	<description>Adds Icons to multiple mods.
 
 		&lt;b&gt;Supported:&lt;/b&gt;
@@ -26,5 +27,6 @@
 		[BETA] Simple Warrants (pb3n.simplewarrants)
 		Diary (aamu.diary)
 		Animal Dictionary (udon.animaldictionary)
+		Colony Manager (fluffy.colonymanager)
 	</description>
 </ModMetaData>

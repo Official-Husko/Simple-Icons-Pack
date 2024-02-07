@@ -3,21 +3,21 @@
 
 	<Operation Class="PatchOperationFindMod">
 		<mods>
-			<li>Bill Manager</li>
+			<li>Colony Manager</li>
 		</mods>
 		<match Class="PatchOperationConditional">
 			<success>Always</success>
-			<xpath>Defs/MainButtonDef[defName="n1_ui_exp"]/iconPath</xpath>
+			<xpath>/Defs/MainButtonDef[defName="Fluffy_Manager"]/iconPath</xpath>
 			<nomatch Class="PatchOperationAdd">
-				<xpath>Defs/MainButtonDef[defName="n1_ui_exp"]</xpath>
+				<xpath>/Defs/MainButtonDef[defName="Fluffy_Manager"]</xpath>
 				<value>
-					<iconPath>UI/Buttons/MainButtons/BillManager</iconPath>
+					<iconPath>UI/Buttons/MainButtons/ColonyManager</iconPath>
 				</value>
 			</nomatch>
 			<match Class="PatchOperationReplace">
-				<xpath>Defs/MainButtonDef[defName="n1_ui_exp"]/iconPath</xpath>
+				<xpath>/Defs/MainButtonDef[defName="Fluffy_Manager"]/iconPath</xpath>
 				<value>
-					<iconPath>UI/Buttons/MainButtons/BillManager</iconPath>
+					<iconPath>UI/Buttons/MainButtons/ColonyManager</iconPath>
 				</value>
 			</match>
 		</match>

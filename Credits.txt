@@ -4,10 +4,11 @@ Code: Official Husko
 
 Icons: 
 
-Animal Dictionary: Vitaly Gorbachev on Flaticon (https://www.flaticon.com/free-icon/veterinary_5221789)
-Diary: Prosymbols Premium on Flaticon (https://www.flaticon.com/free-icon/notebook_7244812)
-Simple Warrants: IwitoStudio on Flaticon (https://www.flaticon.com/free-icon/warranty_7239061)
-Bill Manager: nawicon on Flaticon (https://www.flaticon.com/free-icon/helmet_6772368)
+Animal Dictionary: Vitaly Gorbachev on Flaticon (https://flaticon.com/free-icon/veterinary_5221789)
+Diary: Prosymbols Premium on Flaticon (https://flaticon.com/free-icon/notebook_7244812)
+Simple Warrants: IwitoStudio on Flaticon (https://flaticon.com/free-icon/warranty_7239061)
+Bill Manager: nawicon on Flaticon (https://flaticon.com/free-icon/helmet_6772368)
+Colony Manager: Ayub Irawan on Flaticon (https://flaticon.com/free-icon/gentlemen_9452876)
 
 
 Tools Used:

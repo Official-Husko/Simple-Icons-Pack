@@ -12,6 +12,7 @@ Compatible Versions: **1.3**, **1.4**
 * [[BETA] Simple Warrants][6] (pb3n.simplewarrants)
 * [Diary][8] (aamu.diary)
 * [Animal Dictionary][9] (udon.animaldictionary)
+* [Colony Manager][10] (fluffy.colonymanager)
 
 <br>
 <br>
@@ -29,3 +30,4 @@ Published Officially on the following Platforms:
 [7]: https://steamcommunity.com/sharedfiles/filedetails/?id=2957278626
 [8]: https://steamcommunity.com/sharedfiles/filedetails/?id=2888141826
 [9]: https://steamcommunity.com/sharedfiles/filedetails/?id=2105231696
+[10]: https://steamcommunity.com/sharedfiles/filedetails/?id=715565262
